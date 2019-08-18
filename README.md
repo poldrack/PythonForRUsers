@@ -11,5 +11,5 @@ The ultimate aim is to generate a set of notebooks to help introduce R users to 
 4. [Numerical operations with Numpy](notebooks/Part4_NumericalOperations.ipynb)
 5. [Data analysis and wrangling using Pandas](notebooks/Part5_Pandas.ipynb)
 6. [Linear algebra and statistical modeling](notebooks/Part6_LinearAlgebraStatisticalModeling.ipynb)
-7. Working with text
-8. Data visualization and plotting
+7. [Data visualization and plotting](notebooks/Part7_Visualization.ipynb)
+8. Working with text
