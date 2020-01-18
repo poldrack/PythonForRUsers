@@ -8,3 +8,4 @@ dependencies:
   - r-dplyr
   - r-knitr
   - r-readr
+  - r-tidyr
