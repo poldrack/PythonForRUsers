@@ -1,4 +1,7 @@
 # PythonForRUsers
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/poldrack/PythonForRUsers/master?filepath=notebooks)
+
 Notebooks to introduce R users to Python
 
 *NOTE*: This is a work in progress!
