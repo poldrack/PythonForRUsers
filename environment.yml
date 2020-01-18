@@ -1,0 +1,10 @@
+dependencies:
+  - numpy<1.18  # seaborn breaks on new numpy, so restrict until new release
+  - pandas
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - rpy2
+  - r-dplyr
+  - r-knitr
+  - r-readr
